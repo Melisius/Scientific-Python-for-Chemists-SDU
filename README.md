@@ -19,7 +19,7 @@ A tentative list of topics is listed below:
 
 ## Literature
 1. [Scipy Lecture Notes](http://www.scipy-lectures.org/intro/)
-2. Nelli, Fabio. Python Data Analytics: Data Analysis and Science using pandas, matplotlib and the Python Programming Language. Apress, 2015. Accessible through [SDU library](https://link-springer-com.proxy1-bib.sdu.dk/content/pdf/10.1007%2F978-1-4842-0958-5.pdf)
+2. Nelli, Fabio. Python Data Analytics: Data Analysis and Science using Pandas, matplotlib and the Python Programming Language. Apress, 2015. Accessible through [SDU library](https://link-springer-com.proxy1-bib.sdu.dk/content/pdf/10.1007%2F978-1-4842-0958-5.pdf)
 3. [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
 ## Description and evaluation/rating
