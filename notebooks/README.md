@@ -15,7 +15,7 @@ In this folder Jupyter Notebooks about different aspects of Python can be found.
 * Exercises_6.ipynb, contains information about the topic for the sixth Python study group meeting.
 * Exercises_7.ipynb, contains information about the topic for the seventh Python study group meeting.
 * Exercises_8.ipynb, contains information about the topic for the eight Python study group meeting.
-* Exercises_9.ipynb, (not finished)contains information about the topic for the ninth Python study group meeting.
+* Exercises_9.ipynb, contains information about the topic for the ninth Python study group meeting.
 * Exercises_10.ipynb, (not finished)contains information about the topic for the tenth Python study group meeting.
 
 ### Solutions
@@ -28,7 +28,7 @@ In this folder Jupyter Notebooks about different aspects of Python can be found.
 * Solutions_6.ipynb, contains suggested solutions for exercises inside Exercises_6.ipynb.
 * Solutions_7.ipynb, contains suggested solutions for exercises inside Exercises_7.ipynb.
 * Solutions_8.ipynb, contains suggested solutions for exercises inside Exercises_8.ipynb.
-* Solutions_9.ipynb, (not finished)contains suggested solutions for exercises inside Exercises_9.ipynb.
+* Solutions_9.ipynb, contains suggested solutions for exercises inside Exercises_9.ipynb.
 * Solutions_10.ipynb, (not finished)contains suggested solutions for exercises inside Exercises_10.ipynb.
 
 
