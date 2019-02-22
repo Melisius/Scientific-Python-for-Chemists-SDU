@@ -23,7 +23,7 @@ A tentative list of topics is listed below:
 3. [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
 ## Description and evaluation/rating
-The study group consists of biweekly (total: 8x2) meetings distributed over the four months of the spring semester. 
+The study group consists of biweekly (total: 11x2) meetings distributed over the four months of the spring semester. 
 Students will prepare for the meetings by reading distributed materials, as well as by completing programming exercises. 
 These task is expected to represent the majority of the workload in the course. 
 The meetings will consist of discussions of the prepared programming exercises, as well as discussions with the supervisors. 
